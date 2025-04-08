@@ -1,0 +1,13 @@
+When sourcing game art, it's important to attribute art!
+
+
+# Fonts
+Storyboo.TTF = https://www.dafont.com/storybook.font
+LLPIXEL3.ttf = https://www.dafont.com/llpixel.font
+
+# Images
+start-button.png = <a href="https://www.flaticon.com/free-icons/start-button" title="start button icons">Start button icons created by Freepik - Flaticon</a>
+hen.png = <a href="https://www.flaticon.com/free-icons/hen" title="hen icons">Hen icons created by Freepik - Flaticon</a>
+ghost.png = <a href="https://www.flaticon.com/free-icons/pixelated" title="pixelated icons">Pixelated icons created by YardenG - Flaticon</a>
+coin.png = <a href="https://www.flaticon.com/free-icons/coin" title="coin icons">Coin icons created by Freepik - Flaticon</a>
+purple_camp.jpg = <a href="https://www.freepik.com/free-vector/pixel-art-vacation-background_29019073.htm#fromView=search&page=4&position=4&uuid=0c35e2bb-55bc-409c-a2af-c47583770321">Image by pikisuperstar on Freepik</a>
